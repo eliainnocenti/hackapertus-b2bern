@@ -14,7 +14,6 @@ B2Bern helps economic-development staff discover relevant people, research group
 Describe the company in ordinary language, inspect cited findings, keep the strongest reasons and export a reviewed **Why Bern?** brief.
 
 Built for the Bern Economic Development Agency challenge at Hack Apertus.
-**Team Stregoni:** Renato Mignone, Elia Innocenti, Eric Ruiz Giménez, Mohamed Kechiche.
 
 [Judge guide](docs/judges/README.md) · [Quickstart](docs/judges/QUICKSTART.md) ·
 [Architecture](docs/plans/ARCHITECTURE.md) · [Technical report](technical_report.md) ·
@@ -22,6 +21,11 @@ Built for the Bern Economic Development Agency challenge at Hack Apertus.
 
 **Standalone evidence:** the [retrieval proof of concept](docs/proof-of-concept/README.md) contains a three-page PDF and real-source rankings for fictional HelioSense.
 It records retrieval and traceability; newer pipeline and performance checks are linked separately.
+
+## Demo
+
+[![B2Bern application demo](docs/demo/demo.gif)](docs/demo/demo.MP4)
+
 
 ## Why B2Bern
 
@@ -118,3 +122,10 @@ Operators type permitted context; confidential company plans stay outside the ap
 
 Code: [Apache-2.0](LICENSE). The technical report retains its CC-BY-4.0 template license. Institutional content, model weights and supplied assets keep their own rights. Partner logo/template are used only for this challenge.
 [Hack Apertus terms](https://hackapertus.ch/terms-and-conditions).
+
+## Team
+
+- **Elia Innocenti** — [GitHub](https://github.com/eliainnocenti) · [LinkedIn](https://www.linkedin.com/in/eliainnocenti/)
+- **Mohamed Kechiche** — [GitHub](https://github.com/kechich) · [LinkedIn](https://linkedin.com/in/kechiche)
+- **Renato Mignone** — [GitHub](https://github.com/RenatoMignone) · [LinkedIn](https://www.linkedin.com/in/renato-mignone/)
+- **Eric Ruiz Giménez** — [GitHub](https://github.com/thismanera) · [LinkedIn](https://www.linkedin.com/in/eric-ruiz-gimenez/)

@@ -12,6 +12,13 @@ corpus does not support a requested field, the correct demo result is a visible
 gap—not a made-up value. The fictional company and its plans must remain labeled
 as scenario input.
 
+## Application recording
+
+[Animated preview](demo.gif) · [Video recording (MP4)](demo.MP4)
+
+The GIF preserves the recording's 1440 × 900 resolution and 30 fps timing, using
+an optimized 256-color palette. The MP4 recording is available alongside the animated preview.
+
 ## Files
 
 - `case-brief.md`: copy/paste this as the new case's initial message.
@@ -26,7 +33,7 @@ as scenario input.
 ## Suggested run
 
 For a frontend-independent demonstration, open the
-[recorded retrieval proof of concept](../docs/proof-of-concept/README.md). It
+[recorded retrieval proof of concept](../proof-of-concept/README.md). It
 contains a standalone PDF, the exact tested queries, ranked source records and
 reproduction instructions. It demonstrates real passage retrieval and inspected
 researcher mentions, not a validated expert-recall score or complete profiles.
