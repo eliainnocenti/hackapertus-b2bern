@@ -29,7 +29,7 @@ def main():
     parser.add_argument("--db-host")
     parser.add_argument("--db-port", type=int)
     parser.add_argument("--output", type=Path, default=Path(".local/proof-concept/raw-results.json"))
-    parser.add_argument("--demo-dir", type=Path, default=Path("demo"))
+    parser.add_argument("--demo-dir", type=Path, default=Path("docs/demo"))
     args = parser.parse_args()
     # Private env is explicit and never printed; preserve the established loader convention.
     from backend.data.cli import load_environment
