@@ -16,8 +16,9 @@ as scenario input.
 
 [Animated preview](demo.gif) · [Video recording (MP4)](demo.MP4)
 
-The GIF preserves the recording's 1440 × 900 resolution and 30 fps timing, using
-an optimized 256-color palette. The MP4 recording is available alongside the animated preview.
+The GIF is optimized for README playback at 960 × 600 and 12 fps (about 6 MB),
+retaining the complete recording. The MP4 recording is unchanged and available
+alongside the animated preview.
 
 ## Files
 
