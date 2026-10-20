@@ -24,7 +24,7 @@ It records retrieval and traceability; newer pipeline and performance checks are
 
 ## Demo
 
-[![B2Bern application demo](docs/demo/demo.gif)](docs/demo/demo.MP4)
+[![B2Bern application demo](docs/demo/demo.gif)](docs/demo/demo.git)
 
 
 ## Why B2Bern
